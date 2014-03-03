@@ -1,0 +1,67 @@
+<HEAD>
+<STYLE>
+DIV, SPAN {
+	font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	text-indent: 2em;
+}
+
+P {
+	font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+	text-indent: 2em;
+	margin-left: 5;
+	margin-right: 5;
+}
+
+TD {
+	font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+	font-size: 9pt;
+	color: #000000;
+}
+
+OL, UL {
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+LI {
+	font-size: 9pt;
+	color: #000000;
+	font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+}
+
+A {
+	font-size: 9pt;
+	color: #313131;
+	font-family: Arial, Helvetica, Verdana, Tahoma, sans-serif;
+	font-weight: bold;
+	text-decoration: none;
+}
+
+A:visited {
+	color: navy;
+}
+A:link {
+	color: blue;
+}
+
+A:hover {
+	text-decoration: underline;
+	color: #FFFFFF;
+}
+
+HR {
+	color: #000000;
+	height: 1;
+}
+
+.content {
+
+         padding-left: 10px;
+         padding-right: 10px;
+}
+</STYLE>
+</HEAD>
